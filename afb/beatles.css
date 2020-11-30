@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    min-height: 1200px;
+    background-image: url(../afb/beatlesafb.jpg);
+    color: white;
+
+}
